@@ -1,2 +1,2 @@
-This is fruits README
+This is mains README
 
